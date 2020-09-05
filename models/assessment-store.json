@@ -1,0 +1,59 @@
+{
+  "assessments": [
+    {
+      "id": "f7c6ace0-efa0-11ea-afb5-0f8bf199347d",
+      "memberid": "724742a0-efa0-11ea-afb5-0f8bf199347d",
+      "date": "Sat, 05 Sep 2020 17:55:21 GMT",
+      "weigth": "",
+      "chest": "",
+      "thigh": "",
+      "upperarm": "",
+      "waist": "",
+      "hips": ""
+    },
+    {
+      "id": "0c867eb0-efa3-11ea-9327-7dcf2b8f86eb",
+      "memberid": "4f975680-efa2-11ea-9327-7dcf2b8f86eb",
+      "date": "Sat, 05 Sep 2020 18:10:15 GMT",
+      "weigth": "",
+      "chest": "",
+      "thigh": "",
+      "upperarm": "",
+      "waist": "",
+      "hips": ""
+    },
+    {
+      "id": "188b9510-efa3-11ea-9327-7dcf2b8f86eb",
+      "memberid": "4f975680-efa2-11ea-9327-7dcf2b8f86eb",
+      "date": "Sat, 05 Sep 2020 18:10:35 GMT",
+      "weigth": "",
+      "chest": "",
+      "thigh": "",
+      "upperarm": "",
+      "waist": "",
+      "hips": ""
+    },
+    {
+      "id": "e9843760-efa5-11ea-90f3-0fa519dd957f",
+      "memberid": "3ad52697-6d98-4d80-8273-084de55a86c0",
+      "date": "Sat, 05 Sep 2020 18:30:45 GMT",
+      "weigth": "",
+      "chest": "",
+      "thigh": "",
+      "upperarm": "",
+      "waist": "",
+      "hips": ""
+    },
+    {
+      "id": "eac542e0-efa5-11ea-90f3-0fa519dd957f",
+      "memberid": "3ad52697-6d98-4d80-8273-084de55a86c0",
+      "date": "Sat, 05 Sep 2020 18:30:47 GMT",
+      "weigth": "",
+      "chest": "",
+      "thigh": "",
+      "upperarm": "",
+      "waist": "",
+      "hips": ""
+    }
+  ]
+}
