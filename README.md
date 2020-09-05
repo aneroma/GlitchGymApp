@@ -1,4 +1,4 @@
-Welcome to the Playlist 4
+Gym App using Glitch and Webstorm
 =========================
 
-Version 4 of the Playlist application
+Diana Tifrea
